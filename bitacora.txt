@@ -9,16 +9,26 @@
 1 git clone
 2 ----
 3 git add + commit
-<<<<<<< HEAD
 4 checkout -b
 5 ---
 6 add + commit
-=======
-4
-5
-6
 7 checkout master
 8 checkout -b 
 9 ---
 10 add + commit
->>>>>>> Pruebas
+11
+12
+13
+14
+15
+16
+17
+18 ---
+19 fetch + branch -r git branch Revision origin/Revision
+20 ---
+21 git add + commit
+22 git push origin Revision
+23 git tag
+24 git checkout   hay conflictos despues del stash pop, les resolvemos
+  git add + commit
+25
