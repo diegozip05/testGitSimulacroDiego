@@ -1,8 +1,11 @@
 %%==================================================================%%
-%%                 Métodos de Desarrollo - Test de Git              %%
+%%                 Metodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Alonso Laguillo, Diego               %%
 %%==================================================================%%
 
-  Paso   Acción                       Notas
+  Paso   Accion                       Notas
 ====== ============================ ================================
+1 git clone
+2 ----
+3 git add + commit
