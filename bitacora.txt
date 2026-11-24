@@ -9,3 +9,10 @@
 1 git clone
 2 ----
 3 git add + commit
+4
+5
+6
+7 checkout master
+8 checkout -b 
+9 ---
+10 add + commit
